@@ -100,7 +100,7 @@ const Details = () => {
                      
                 </div>
                 <div className='col-span-4 md:col-span-2 row-span-1 rounded-lg  bg-white shadow-[0_10px_25px_rgba(0,0,0,0.15)] p-3'>
-                     <h3 className='flex gap-2 font-medium justify-center'><Trash2></Trash2>Delete</h3>
+                     <h3 className='flex gap-2 font-medium justify-center text-red-600'><Trash2></Trash2>Delete</h3>
                 </div>
             </div>
         </div>

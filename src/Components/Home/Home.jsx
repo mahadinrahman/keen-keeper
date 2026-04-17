@@ -15,7 +15,7 @@ const Home = () => {
         
         <div className='grid grid-cols-2 md:grid-cols-4 justify-center gap-2 md:gap-5 '>
             <div className='bg-white text-center rounded-xl p-9 shadow-[0_10px_25px_rgba(0,0,0,0.15)] w-45 md:w-70'>
-                <p className='text-2xl font-semibold'>10</p>
+                <p className='text-2xl font-semibold'>8</p>
                 <p className='text-center'>Total Friends</p>
             </div>
             <div className='bg-white text-center rounded-xl p-9 shadow-[0_10px_25px_rgba(0,0,0,0.15)] w-45 md:w-70'>
@@ -23,11 +23,11 @@ const Home = () => {
                 <p className='text-center'>On Track</p>
             </div>
             <div className='bg-white text-center rounded-xl p-9 shadow-[0_10px_25px_rgba(0,0,0,0.15)] w-45 md:w-70'>
-                <p className='text-2xl font-semibold'>6</p>
+                <p className='text-2xl font-semibold'>5</p>
                 <p className='text-center'>Need Attention</p>
             </div>
             <div className='bg-white text-center rounded-xl p-9 shadow-[0_10px_25px_rgba(0,0,0,0.15)] w-45 md:w-70'>
-                <p className='text-2xl font-semibold'>12</p>
+                <p className='text-2xl font-semibold'>7</p>
                 <p className='text-center'>Interactions This Month</p>
             </div>
             

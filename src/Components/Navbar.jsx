@@ -7,7 +7,7 @@ const Navbar = () => {
         <div className=' shadow-sm'>
            <div className="navbar bg-base-100 max-w-11/12 mx-auto block md:flex">
   <div className="flex-1">
-    <a className="btn btn-ghost text-2xl text-green-900 font-bold ">KeenKeeper</a>
+    <a className="btn btn-ghost text-4xl text-green-900 font-bold ">KeenKeeper</a>
   </div>
   <div className="flex-none">
     <ul className="menu menu-horizontal px-1 gap-3">
