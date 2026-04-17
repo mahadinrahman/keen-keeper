@@ -13,7 +13,7 @@ const TimelineMessage = ({message}) => {
                
                    <MessageSquareMore  className='my-auto'></MessageSquareMore>
                    <div>
-                    <p className='font-medium'>Message With {message.name}</p>
+                    <p className='font-medium'>Text With {message.name}</p>
                     <p className='font-medium'>{date}</p>
                     </div>
 
