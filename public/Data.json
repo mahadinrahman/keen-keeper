@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "name": "Rahim Ahmed",
+    "picture": "https://randomuser.me/api/portraits/men/32.jpg",
+    "email": "rahim.ahmed@gmail.com",
+    "days_since_contact": 18,
+    "status": "overdue",
+    "tags": ["college", "close friend"],
+    "bio": "We studied Computer Science together at Rajshahi University. He now works as a frontend developer.",
+    "goal": 14,
+    "next_due_date": "2026-04-12"
+  },
+  {
+    "id": 2,
+    "name": "Nusrat Jahan",
+    "picture": "https://randomuser.me/api/portraits/women/44.jpg",
+    "email": "nusrat.jahan@yahoo.com",
+    "days_since_contact": 5,
+    "status": "on-track",
+    "tags": ["office", "coffee buddy"],
+    "bio": "Former coworker. We usually catch up over coffee and talk about career goals.",
+    "goal": 10,
+    "next_due_date": "2026-04-21"
+  },
+  {
+    "id": 3,
+    "name": "Tanvir Hasan",
+    "picture": "https://randomuser.me/api/portraits/men/75.jpg",
+    "email": "tanvir.hasan@hotmail.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": ["school", "football"],
+    "bio": "School friend. We used to play football every weekend in our neighborhood.",
+    "goal": 14,
+    "next_due_date": "2026-04-18"
+  },
+  {
+    "id": 4,
+    "name": "Sadia Islam",
+    "picture": "https://randomuser.me/api/portraits/women/68.jpg",
+    "email": "sadia.islam@gmail.com",
+    "days_since_contact": 21,
+    "status": "overdue",
+    "tags": ["university", "project partner"],
+    "bio": "Worked on multiple group projects together. Now she is doing her masters abroad.",
+    "goal": 14,
+    "next_due_date": "2026-04-10"
+  },
+  {
+    "id": 5,
+    "name": "Mehedi Hasan",
+    "picture": "https://randomuser.me/api/portraits/men/21.jpg",
+    "email": "mehedi.hasan@gmail.com",
+    "days_since_contact": 3,
+    "status": "on-track",
+    "tags": ["gym", "fitness"],
+    "bio": "Gym partner. We motivate each other to stay consistent with workouts.",
+    "goal": 7,
+    "next_due_date": "2026-04-20"
+  },
+  {
+    "id": 6,
+    "name": "Farhana Rahman",
+    "picture": "https://randomuser.me/api/portraits/women/12.jpg",
+    "email": "farhana.rahman@gmail.com",
+    "days_since_contact": 13,
+    "status": "almost due",
+    "tags": ["neighbor", "family friend"],
+    "bio": "Grew up in the same area. Our families still meet during holidays.",
+    "goal": 14,
+    "next_due_date": "2026-04-17"
+  },
+  {
+    "id": 7,
+    "name": "Arif Chowdhury",
+    "picture": "https://randomuser.me/api/portraits/men/54.jpg",
+    "email": "arif.chowdhury@gmail.com",
+    "days_since_contact": 30,
+    "status": "overdue",
+    "tags": ["startup", "tech"],
+    "bio": "Met at a startup meetup. We discuss business ideas and technology trends.",
+    "goal": 14,
+    "next_due_date": "2026-04-05"
+  },
+  {
+    "id": 8,
+    "name": "Mariam Khan",
+    "picture": "https://randomuser.me/api/portraits/women/29.jpg",
+    "email": "mariam.khan@gmail.com",
+    "days_since_contact": 6,
+    "status": "on-track",
+    "tags": ["book club", "reading"],
+    "bio": "We run a small book club together and share reading recommendations.",
+    "goal": 10,
+    "next_due_date": "2026-04-22"
+  }
+ 
+]
