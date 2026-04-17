@@ -33,7 +33,7 @@ const Home = () => {
             
         </div>
 
-        <h3 className='text-2xl font-bold mt-9 py-6 border-t-2 border-gray-300'>Your Friends</h3>
+        <h3 className='text-2xl text-green-900 font-bold mt-9 py-6 border-t-2 border-gray-300'>Your Friends</h3>
         <div className='grid grid-cols-1 md:grid-cols-4 gap-5 m'>
            {
              datas.map((data,index)=>(<Cards data={data} key={index}></Cards>))
