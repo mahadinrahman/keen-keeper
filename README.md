@@ -26,3 +26,5 @@ The Timeline tracks communication activities (Call, Text, Video) and allows filt
 
 ##Analytics Dashboard:
 A visual Stats section displays interaction data using charts, helping users understand their communication patterns.
+
+**************************************************************
